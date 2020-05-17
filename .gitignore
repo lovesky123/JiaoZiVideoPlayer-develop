@@ -1,0 +1,16 @@
+/infer-out
+gradle.properties
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+build
+/captures
+*.asc
+projectFilesBackup
+release
+_build
+/gradle/
+
+*.so
